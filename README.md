@@ -3,6 +3,23 @@ This analysis examines delivery operations and customer experience in a logistic
 
 ## Objective: To identify patterns in delivery delays, fleet utilization, and customer satisfaction, and use these insights to recommend strategies that improve operational efficiency, optimize resource usage, reduce costs, and enhance the customer experience
 
+## Key Features
+- Power BI (Interactive dashboard)
+- Powerpoint Slides
+
+## Dashboard
+[View the interactive Power BI dashboard](https://github.com/BOAMAH-99/Logistics_service_analysis/blob/main/Dashboard/Three%20Logistics%20Dashboard.pbix)
+
+or view below:
+
+<iframe title="UK TRAINS ANALYSIS DASHBOARD" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ed853100-e602-41c8-a42c-58a1b429a2ab&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3" frameborder="0" allowFullScreen="true"></iframe>
+
+## Tools and Skills Used
+Power BI (interactive Dashboards, DAX, visuals, KPIs)
+Excel (Statistical Analytics)
+Data Cleaning & Exploratory Data Analysis (EDA)
+
+
 ## Delivery and Truck Performance Analysis
 Differences in Truck Usage: 
 - There are considerable differences in delivery distances, fuel costs, and distances covered by each truck, indicating some trucks are underused or inefficiently allocated.
@@ -19,7 +36,7 @@ Client Satisfaction:
 - Specifically, deliveries taking longer than 4.59 hours or covering more than 165 kilometers trigger negative client reactions.
 - Overall, client satisfaction scores tend to decrease as delivery time and distance increase, highlighting the importance of optimizing routes and improving delivery speed
 
-## Recommendations
+## Strategic Recommendations
 Optimize Truck Allocation:
 - Review utilization rates of all trucks to identify underused vehicles.
 - Redistribute workloads to balance usage effectively and enhance overall fleet efficiency.
