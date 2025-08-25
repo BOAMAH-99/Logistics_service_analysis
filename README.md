@@ -1,5 +1,5 @@
 # Logistics_service_analysis
-This analysis examines delivery operations and customer experience in a logistics dataset. The objective is to uncover patterns in delivery delays, fleet utilization, and client satisfaction, and evaluate their impact on efficiency and costs. By analyzing delivery times, truck usage, route distances, and customer feedback, this study highlights inefficiencies and provides data-driven insights to optimize fleet scheduling, improve timeliness, and enhance overall service quality.
+This analysis examines delivery operations and customer experience in a logistics dataset. The objective is to uncover patterns in delivery delays, fleet utilization, and client satisfaction, and evaluate their impact on efficiency and costs. By analyzing delivery times, truck usage, route distances, and customer feedback, this analysis highlights inefficiencies and provides data-driven insights to improve efficient operations and customer service quality. The goal was to improve the overrall efficiency and effectiveness of Three Logistics Company.
 
 ## Objective: To identify patterns in delivery delays, fleet utilization, and customer satisfaction, and use these insights to recommend strategies that improve operational efficiency, optimize resource usage, reduce costs, and enhance the customer experience
 
@@ -9,10 +9,6 @@ This analysis examines delivery operations and customer experience in a logistic
 
 ## Dashboard
 [View the interactive Power BI dashboard](https://github.com/BOAMAH-99/Logistics_service_analysis/blob/main/Dashboard/Three%20Logistics%20Dashboard.pbix)
-
-or view below:
-
-<iframe title="UK TRAINS ANALYSIS DASHBOARD" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ed853100-e602-41c8-a42c-58a1b429a2ab&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Tools and Skills Used
 Power BI (interactive Dashboards, DAX, visuals, KPIs)
