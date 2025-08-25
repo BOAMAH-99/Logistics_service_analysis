@@ -72,7 +72,7 @@ Enhanced Delivery Time Prediction and Client Communication:
 - Improve accuracy of delivery time predictions.
 - Provide clients with live tracking access and real-time notifications to boost confidence and transparency
 
-Optimizing fleet management through balanced truck allocation, route planning, and real-time monitoring enhances efficiency, reduces costs, and improves client satisfaction. Leveraging technology like GPS tracking and route optimization tools, while prioritizing high-performing trucks and proactively managing risk factors, drives better delivery outcomes and stronger customer loyalty. These strategies ensure a more productive, cost-effective, and customer-focused fleet operation
+### Optimizing fleet management through balanced truck allocation, route planning, and real-time monitoring enhances efficiency, reduces costs, and improves client satisfaction. Leveraging technology like GPS tracking and route optimization tools, while prioritizing high-performing trucks and proactively managing risk factors, drives better delivery outcomes and stronger customer loyalty. These strategies ensure a more productive, cost-effective, and customer-focused fleet operation
 
 
 
